@@ -12,15 +12,12 @@ about:
       href: https://github.com/BBieza/Brian-Bieza-protfolio
 ---
 
-Judith Canner is a Professor of Statistics and Chair of the Department of Mathematics and Statistics at [California State University, Monterey Bay](http://csumb.edu/mathstat).
+Brian Bieza is a Graduate of [California State University, Monterey Bay](http://csumb.edu) with a degree in Marine Science, as well as a certified AAUS science diver.
 
 ## Education
 
-Shippensburg University | Shippensburg, PA  
-B.S. in Applied Mathematics | 2001 - 2004
+California State University Monterey Bay | Monterey Bay, CA  
+B.S. in Marine Science | 2024 -2026
 
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
+Santa Barbara City College | Santa Barbara, CA
+AA in Biological Science |2015  - 2023
